@@ -3,6 +3,5 @@ this is first info of file.
 add info for file.
 nguyen viet tien
 lop CNTT2.1K59
-Ha Noi university of science and technology
 =======
 >>>>>>> parent of 593a491... this is comment confirm
