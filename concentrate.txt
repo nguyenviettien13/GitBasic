@@ -3,6 +3,10 @@ this is first info of file.
 add info for file.
 nguyen viet tien
 lop CNTT2.1K59
+<<<<<<< HEAD
 study in HN city
+=======
+Ha Noi university of science and technology....
+>>>>>>> 9785f70a8d2b4349a89d8073dfa22d4285077bba
 =======
 >>>>>>> parent of 593a491... this is comment confirm
